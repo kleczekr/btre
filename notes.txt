@@ -1,0 +1,7 @@
+# Create virtual environment
+python -m venv ./venv
+# activate virtual environment on Windows
+./venv/Scripts/activate
+# exit venv
+deactivate
+
