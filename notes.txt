@@ -5,3 +5,9 @@ python -m venv ./venv
 # exit venv
 deactivate
 
+# start the project:
+python manage.py runserver
+
+# to create a new (section?) of an app:
+python manage.py startapp <app_name>
+
